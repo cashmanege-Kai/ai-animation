@@ -1,0 +1,39 @@
+{
+  "status": "prepared_not_uploaded",
+  "target": "https://github.com/cashmanege-Kai/ai-animation",
+  "validation": "Python and notebook cells syntax passed; FFmpeg 77-frame preparation passed; Kaggle GPU generation not executed",
+  "files": {
+    ".gitignore": {
+      "bytes": 86,
+      "sha256": "fc0aad5006bc7e8219b078988438466f06f2ca669bf2b076e6d0267834df9b84"
+    },
+    "comfy_api_run.py": {
+      "bytes": 3230,
+      "sha256": "287c58e3554cb05c4a58f8c7b67076d2bbfc7bcfaaabb94f3032978879eabaab"
+    },
+    "kaggle-wan-animate-recast.ipynb": {
+      "bytes": 8580,
+      "sha256": "cbbc5a030ac6ebbd0df51f2cf292b1d1419e51f8d29f09cf20efa916f31aa694"
+    },
+    "kaggle_recast_prepare.py": {
+      "bytes": 2939,
+      "sha256": "bc9e9ef8c33ac2524e84037d702b9edd34feffd9213d1ab725517baaf8ebad4c"
+    },
+    "KAGGLE_RECAST_README.md": {
+      "bytes": 1765,
+      "sha256": "097f632885ca025388a65a804dfba53120325122cd641a26280507c2625bb448"
+    },
+    "make_notebook.py": {
+      "bytes": 6683,
+      "sha256": "08eed03e87acf9d75b115c4d0ac609f28db99643911f417687e3416f416993c1"
+    },
+    "tennis-woman-reference.png": {
+      "bytes": 1973294,
+      "sha256": "14a3fb1065f752e2c30e988d640b1d42c20e91597c6f6afa138c4bcdcc878984"
+    },
+    "wan-animate-official-ui.json": {
+      "bytes": 137690,
+      "sha256": "db9c39b8b24ad04ad1f528db286f105b2100b139d2369039369a025708f7b2a4"
+    }
+  }
+}

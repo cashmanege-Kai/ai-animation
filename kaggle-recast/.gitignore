@@ -1,0 +1,8 @@
+API KEY.txt
+.env
+.env.*
+*.safetensors
+*.gguf
+source-*.mp4
+__pycache__/
+.venv/
